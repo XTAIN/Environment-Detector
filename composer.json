@@ -1,0 +1,7 @@
+{
+  "name": "xtain/environment-detector",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {"XTAIN\\EnvironmentDetector\\": "src/"}
+  }
+}
