@@ -3,5 +3,9 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {"XTAIN\\EnvironmentDetector\\": "src/"}
+  },
+  "require": {
+    "symfony/filesystem": ">=2.3",
+    "symfony/http-kernel": ">=2.0"
   }
 }
